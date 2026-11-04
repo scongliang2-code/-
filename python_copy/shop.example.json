@@ -1,0 +1,10 @@
+{
+  "shop_name": "无渣粉葛店",
+  "brand": "无品牌",
+  "stock_per_sku": 88,
+  "shipping_origin": {"province": "广西", "city": "梧州"},
+  "shipping_template": "包邮",
+  "carrier": "普通快递",
+  "dispatch_time": "48小时内发货",
+  "price_rule": {"multiplier": "1", "addition": "0"}
+}
